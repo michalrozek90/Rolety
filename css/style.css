@@ -1067,7 +1067,7 @@ div.rolety {
     position: relative;
     width: 100%;
     height: 35vh;
-    background-image: url(img/strona\ w\ budowie.jpg);
+    background-image: url(/img/strona\ w\ budowie.jpg);
 }
 
 .rolety h1 {
@@ -1505,7 +1505,7 @@ section.fourth span:nth-child(2) {
 }
 
 section.fourth .p1 {
-    background-image: url(img/p-rolety\ materiałowe.jpg);
+    background-image: url(/img/p-rolety\ materiałowe.jpg);
 }
 
 section.fourth .p2 {
@@ -1549,7 +1549,7 @@ section.fourth .p11 {
 }
 
 section.fourth .p12 {
-    background-image: url(img/p-drzwi.jpg);
+    background-image: url(/img/p-drzwi.jpg);
 }
 
 section.fourth .imagebox .shadowed {
