@@ -1067,7 +1067,7 @@ div.rolety {
     position: relative;
     width: 100%;
     height: 35vh;
-    background-image: url(/img/strona\ w\ budowie.jpg);
+    background-image: url(../img/strona\ w\ budowie.jpg);
 }
 
 .rolety h1 {
@@ -1505,7 +1505,7 @@ section.fourth span:nth-child(2) {
 }
 
 section.fourth .p1 {
-    background-image: url(/img/p-rolety\ materiałowe.jpg);
+    background-image: url(../img/p-rolety\ materiałowe.jpg);
 }
 
 section.fourth .p2 {
@@ -1513,43 +1513,43 @@ section.fourth .p2 {
 }
 
 section.fourth .p3 {
-    background-image: url(/img/p-rolety\ zewnętrzne.jpg);
+    background-image: url(../img/p-rolety\ zewnętrzne.jpg);
 }
 
 section.fourth .p4 {
-    background-image: url(/img/p-rolety\ dzień\ noc.jpg);
+    background-image: url(../img/p-rolety\ dzień\ noc.jpg);
 }
 
 section.fourth .p5 {
-    background-image: url(/img/p-żaluzje\ drewniane.jpg);
+    background-image: url(../img/p-żaluzje\ drewniane.jpg);
 }
 
 section.fourth .p6 {
-    background-image: url(/img/p-żaluzje\ aluminiowe.jpg);
+    background-image: url(../img/p-żaluzje\ aluminiowe.jpg);
 }
 
 section.fourth .p7 {
-    background-image: url(/img/p-żaluzje\ pionowe.jpg);
+    background-image: url(../img/p-żaluzje\ pionowe.jpg);
 }
 
 section.fourth .p8 {
-    background-image: url(/img/p-markizy.jpg);
+    background-image: url(../img/p-markizy.jpg);
 }
 
 section.fourth .p9 {
-    background-image: url(/img/p-moskitiery\ drzwiowe.jpg);
+    background-image: url(../img/p-moskitiery\ drzwiowe.jpg);
 }
 
 section.fourth .p10 {
-    background-image: url(/img/p-moskitiery\ okienne.jpg);
+    background-image: url(../img/p-moskitiery\ okienne.jpg);
 }
 
 section.fourth .p11 {
-    background-image: url(/img/p-okna.jpg);
+    background-image: url(../img/p-okna.jpg);
 }
 
 section.fourth .p12 {
-    background-image: url(/img/p-drzwi.jpg);
+    background-image: url(../img/p-drzwi.jpg);
 }
 
 section.fourth .imagebox .shadowed {
@@ -1708,7 +1708,7 @@ section.fifth {
     position: relative;
     width: 100%;
     padding: 120px 20px;
-    background-image: url(/img/wycena-bgc2.jpg);
+    background-image: url(../img/wycena-bgc2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
